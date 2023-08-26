@@ -2,10 +2,9 @@
 
 
 
-<img src="media/image35.png" alt="Image Alt Text" width="600">
+<img src="media/Screenshot 2023-08-26 230003.jpg" alt="Image Alt Text" width="600">
 
-<img src="media/image36.png" alt="Image Alt Text" width="300">
-<img src="media/image34.png" alt="Image Alt Text" width="300">
+
 
 
 
